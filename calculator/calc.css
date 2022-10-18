@@ -1,0 +1,42 @@
+
+#new{
+    width:320px;
+    height:70px;
+    border-radius:12px;
+    margin-bottom: 10px;
+    background-color:white;
+    
+}
+input{
+    width:70px;
+    height:45px;
+    font-size:30px;
+    border-radius:12px;
+    margin:6px;
+    text-align: center; 
+    box-shadow:3px 3px gray;
+   
+   
+}
+#all{
+    width:155px;
+    height:45px;
+    box-shadow:3px 3px gray;
+}
+
+form{
+    margin-left:34%;
+    margin-right:34%;
+    padding:20px;
+    padding-left: 29px;
+   border: 1px solid black;
+   border-radius:20px;
+   background:linear-gradient(45deg,rgb(28, 37, 193),rgb(85, 237, 237));
+   box-shadow:8px 8px gray;
+   
+}
+input:hover{
+    cursor:pointer;
+    opacity:0.8;
+   
+}
